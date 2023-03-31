@@ -23,3 +23,5 @@
   <a href="https://www.facebook.com/profile.php?id=100010364616264" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a>
   <a href="https://www.instagram.com/matheusanderson7/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
 </div>
+
+![Snake animation](https://github.com/AnderMath7/AnderMath7/blob/output/github-contribution-grid-snake.svg)
