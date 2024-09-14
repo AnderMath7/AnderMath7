@@ -102,14 +102,7 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Matheus_Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-anderson-7a24b620a/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusanderson7@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusanderson7@gmail.com)](mailto:matheusanderson7@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/AnderMath7?label=follow&style=social)](https://github.com/AnderMath7)
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheusanderson7@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.link/pmmtsv" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusanderson7/" alt="Instagram"/></a>
-</p>
 
